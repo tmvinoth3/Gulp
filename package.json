@@ -1,0 +1,17 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Beginning",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "author": "vinoth",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-if": "^2.0.2",
+    "gulp-sass": "^3.1.0"
+  }
+}
